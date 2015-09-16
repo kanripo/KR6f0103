@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:49.871219
+#+DATE: 2015-08-30 20:02:51.898978
 #+TITLE: 彌勒菩薩所問經論
 #+PROPERTY: CBETA_ID T26n1525
 #+PROPERTY: ID KR6f0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1525
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6f0103_T_001-0233b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1525¶
-
- 《彌勒菩薩所問經論》卷第一¶
+No. 1525¶
+《彌勒菩薩所問經論》卷第一¶
 ¶
-後魏天竺三藏菩提流支譯¶
+元魏天竺三藏法師菩提留支譯¶
 
 如是我聞。一時婆伽婆住王舍城耆闍崛山¶
 中。與大比丘眾千二百五十人俱。并諸菩薩¶
@@ -61,7 +60,7 @@ No.1525¶
 諸沙門及婆羅門貧窮乞匃下賤人等。衣食¶
 臥具隨病湯藥所須之物。彌勒。如是諸菩薩¶
 摩訶薩畢竟成就捨心。彌勒。云何諸菩薩¶
-摩訶薩成就善知迴向方便心。彌勒。若諸¶
+摩訶薩成就善知逈向方便心。彌勒。若諸¶
 菩薩摩訶薩所修善根。謂身口意業。皆悉迴¶
 向阿耨多羅三藐三菩提。彌勒。如是諸菩薩¶
 摩訶薩畢竟成就。善知迴向方便心。彌勒。云¶
