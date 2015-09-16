@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:49.905994
+#+DATE: 2015-08-30 20:02:52.908043
 #+TITLE: 彌勒菩薩所問經論
 #+PROPERTY: CBETA_ID T26n1525
 #+PROPERTY: ID KR6f0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1525
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0103_T_002-0238b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《彌勒菩薩所問經論》卷第二¶
+《彌勒菩薩所問經論》卷第二¶
 ¶
 後魏天竺三藏菩提流支譯¶
 
@@ -416,8 +415,7 @@
 諸法自體相不離諸法更有相故。問曰。若爾¶
 應如是說知諸法體。不應說知相。答曰不然。¶
 若如是說。不離向所說過。此明何義。如諸法¶
-相離諸法更有體。恐如是取。為護彼過故二¶
-種說。此明何義。即自體相離體更無相。自體¶
+相離諸法更有體。恐如是取。為護彼過故二種說。此明何義。即自體相離體更無相。自體¶
 與相名異義一。是故說如實知一切法自體¶
 相。不如向難所說。¶
 

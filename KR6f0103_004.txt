@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:49.955619
+#+DATE: 2015-08-30 20:02:52.961672
 #+TITLE: 彌勒菩薩所問經論
 #+PROPERTY: CBETA_ID T26n1525
 #+PROPERTY: ID KR6f0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1525
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0103_T_004-0247c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《彌勒菩薩所問經論》卷第四¶
+《彌勒菩薩所問經論》卷第四¶
 ¶
 後魏天竺三藏菩提流支譯¶
 

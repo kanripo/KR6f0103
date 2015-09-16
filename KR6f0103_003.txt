@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:49.933284
+#+DATE: 2015-08-30 20:02:52.934488
 #+TITLE: 彌勒菩薩所問經論
 #+PROPERTY: CBETA_ID T26n1525
 #+PROPERTY: ID KR6f0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1525
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6f0103_T_003-0242c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T
+#+PROPERTY: LASTPB <pb:KR6f0103_T_003-0242c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《彌勒菩薩所問經論》卷第三¶
+《彌勒菩薩所問經論》卷第三¶
 ¶
 後魏天竺三藏菩提流支譯¶
 
@@ -290,8 +289,7 @@
 彼聲聞人於菩薩果不得名為成就修行。菩¶
 薩過於一切世間。見諸世間種種過失。乃至¶
 不著轉輪聖王樂果報等。雖復能證小乘涅¶
-槃。依大慈悲勇猛心故。捨涅槃樂求佛菩¶
-提。修行十善業。為救一切諸眾生故。攝大¶
+槃。依大慈悲勇猛心故。捨涅槃樂求佛菩提。修行十善業。為救一切諸眾生故。攝大¶
 勝願。其心唯以一切種智以為究竟。是故菩¶
 薩不同一切外道聲聞辟支佛等修行十善¶
 業道。是故名為成就修行。¶

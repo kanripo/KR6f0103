@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:50.040245
+#+DATE: 2015-08-30 20:02:53.072158
 #+TITLE: 彌勒菩薩所問經論
 #+PROPERTY: CBETA_ID T26n1525
 #+PROPERTY: ID KR6f0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1525
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0103_T_008-0265b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《彌勒菩薩所問經論》卷第八¶
+《彌勒菩薩所問經論》卷第八¶
 ¶
 後魏天竺三藏菩提流支譯¶
 
